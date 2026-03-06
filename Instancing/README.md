@@ -1,0 +1,1 @@
+Sample contains raw instancing starting point, that i used in my own comparative research and at optimizations prototyping stage.
