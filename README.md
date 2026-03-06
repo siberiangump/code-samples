@@ -1,0 +1,1 @@
+Each folder contains separate code samples and README with small description of sample.
